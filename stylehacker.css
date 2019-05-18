@@ -1,0 +1,96 @@
+body{
+	font-size:17px;
+	font-family: 'Titillium Web', sans-serif;
+}
+
+a{
+	text-decoration: none;
+	color: black;
+	border-spacing: 1px;
+}
+
+a:hover{
+	text-decoration: none;
+
+}
+
+header {
+
+	background: #FE6600;
+	color: black;
+	height: 26px;
+	text-align:left;
+	padding: 3px 10px;
+
+}
+
+.login{
+	text-align: right;
+	margin-top: -2.5%
+}
+
+.menu1 a{
+	font-size:15px;
+}
+
+img{
+	margin: 2px 2px -5px 3px;
+	border: 1px white solid;
+	width: 20px;
+    height: 20px;
+}
+
+#top{
+
+	font-weight: bolder;
+}
+
+.center{
+	background: #F7F0E4;
+	text-align: left;
+
+}
+
+.container{
+	background: #F7F0E4;
+	margin-right: 120px;
+	margin-left: 120px;
+}
+
+.link{
+
+	font-size:11px;
+	color: grey;
+}
+
+.antes a{
+	margin: 0 0 0 40px;
+	font-size:15px;
+	
+}
+
+.bottom a{
+	text-align: center;
+	color: #828282;
+	
+
+}
+
+.bottom{
+	margin-top: 15px;
+}
+
+.pies{
+	margin: 10px 10px 0 10px;
+}
+
+
+footer{
+	margin: 10px 0 0 0;
+	border-top: 2px solid #FE6600;
+	text-align: center;
+	font-size: 12px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+
+}
